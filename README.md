@@ -7,11 +7,11 @@ Matricula: 00905541
 
 ## Tela de inspeção com navegador
 
-<img scr="img/images/captura_de_tela_2025-08-28_224532.png" alt="Tela de inspeção com navegador" >
+![Tela de inspeção com navegador](images/captura_de_tela1.png)
 
 ## Tela de projeto no Replit
 
-<img scr="img/images/captura_de_tela_2025-08-28_232359.png" alt="Tela de projeto no Replit">
+![Tela de projeto no Replit](images/captura_de_tela.png)
 
 
 ## Orientações sobre Linguagem MarkDown

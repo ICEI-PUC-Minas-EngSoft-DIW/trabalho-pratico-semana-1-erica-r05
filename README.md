@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Erica Regina da Silva Martins 
+Matricula: 00905541
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img scr="Captura de tela 2025-08-2028 224532.png" >
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+<img scr="Captura de tela 2025-08-2028 232359.png">
 
 
 ## Orientações sobre Linguagem MarkDown
